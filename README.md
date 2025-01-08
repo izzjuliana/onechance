@@ -1,7 +1,6 @@
-# Activist Toolkit Sample Project
+# Activist Toolkit Girls Who Code Project
 
-This is a place for you to start building your activist toolkit!
-
+![image](https://github.com/user-attachments/assets/3e0c84bc-dad4-4cb1-8783-187ba16c9ff1)
 
 ### Project Requirements
 Your project should:
