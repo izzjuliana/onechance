@@ -8,4 +8,8 @@ Implements a fact generator to inform the user on concerning statistics regardin
 ![image](https://github.com/user-attachments/assets/c701d0c5-72b3-4014-88e6-0697effd121b)
 
 
+Also includes resources, such as news articles, to provide the user with more information and how to help.
+
+![image](https://github.com/user-attachments/assets/5c66d0f1-faf9-4d52-8790-59b1a3c57211)
+
 Tools used: HTML/CSS/JS
